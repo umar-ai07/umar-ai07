@@ -5,6 +5,15 @@
   AI Enthusiast • Machine Learning • Python Developer
 </p>
 
+## 📌 About Me
+
+<p align="center">
+  🌱 I’m currently learning <b>Python, Machine Learning</b>  
+  💬 Ask me about <b>Python, Machine Learning, Data Analysis, and OOP concepts</b>  
+  👨‍💻 All of my projects are available at <b>GitHub</b>  
+  📫 How to reach me: <b>umarofficialpk87@gmail.com</b>
+</p>
+
 ## 🤝 Connect with me
 
 <p align="center">
