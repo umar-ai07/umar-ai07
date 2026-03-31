@@ -7,7 +7,6 @@
 
 ## 📌 About Me
 
-<p align="center">
   🌱 <b>Step 1:</b> I am currently learning <b>Python</b> and <b>Machine Learning</b>.<br><br>
 
   💬 <b>Step 2:</b> Ask me about <b>Python, Machine Learning, Data Analysis, and OOP concepts</b>.<br><br>
