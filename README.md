@@ -8,12 +8,12 @@
 ## 🤝 Connect with me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/muhammad-umar-farooq-khan-095b2b3ba" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/>
+  <a href="https://www.linkedin.com/in/muhammad-umar-farooq-khan-095b2b3ba">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  
+
   <a href="mailto:umarofficialpk87@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
 </p>
 
