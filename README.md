@@ -30,11 +30,17 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=umar-ai07&show_icons=true&theme=radical&hide_title=true&count_private=true" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=umar-ai07&layout=compact&theme=radical&hide_title=true&langs_count=8" height="150"/>
-</p>
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=umar-ai07&show_icons=true&theme=radical&hide_title=true&count_private=true" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=umar-ai07&layout=compact&theme=radical&hide_title=true&langs_count=8" />
+    </td>
+  </tr>
+</table>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=umar-ai07&theme=radical" height="150"/>
+  <img src="https://streak-stats.demolab.com/?user=umar-ai07&theme=radical" />
 </p>
