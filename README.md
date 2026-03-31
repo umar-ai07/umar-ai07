@@ -27,11 +27,16 @@
 </p>
 
 ---
-
 ## 📊 GitHub Stats
 
-<div style="display: flex; justify-content: center; align-items: center; gap: 20px; flex-wrap: wrap;">
-  <img src="https://github-readme-stats.vercel.app/api?username=umar-ai07&show_icons=true&theme=radical&hide_title=true&count_private=true" width="300"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=umar-ai07&layout=compact&theme=radical&hide_title=true&langs_count=8" width="300"/>
-  <img src="https://streak-stats.demolab.com/?user=umar-ai07&theme=radical" width="300"/>
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=umar-ai07&show_icons=true&theme=radical&count_private=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=umar-ai07&layout=compact&theme=radical" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=umar-ai07&theme=radical" />
+</p>
