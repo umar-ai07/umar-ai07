@@ -26,15 +26,14 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40"/>
 </p>
 
----
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=umar-ai07&show_icons=true&theme=radical&count_private=true" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=umar-ai07&show_icons=true&theme=radical" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=umar-ai07&layout=compact&theme=radical" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=umar-ai07&layout=compact&theme=radical" />
 </p>
 
 <p align="center">
