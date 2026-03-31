@@ -8,13 +8,18 @@
 ## 📌 About Me
 
 <p align="center">
-  🌱 I am currently learning <b>Python</b> and <b>Machine Learning</b>.  
-  💬 I enjoy working with <b>Python, Machine Learning, Data Analysis, and OOP concepts</b>
-  👨‍💻 You can view all of my projects on my LinkedIn profile:  
+  🌱 <b>Step 1:</b> I am currently learning <b>Python</b> and <b>Machine Learning</b>.<br><br>
+
+  💬 <b>Step 2:</b> Ask me about <b>Python, Machine Learning, Data Analysis, and OOP concepts</b>.<br><br>
+
+  👨‍💻 <b>Step 3:</b> All of my projects are available at my LinkedIn profile: 
   <a href="https://www.linkedin.com/in/muhammad-umar-farooq-khan-095b2b3ba">
-    www.linkedin.com/in/muhammad-umar-farooq-khan-095b2b3ba
-  </a>  
-  📫 Reach out to me at: <b>umarofficialpk87@gmail.com</b>
+    Click here to view
+  </a><br><br>
+
+  📫 <b>Step 4:</b> Feel free to reach out to me via email: 
+  <a href="mailto:umarofficialpk87@gmail.com">
+  </a>
 </p>
 
 ## 🤝 Connect with me
