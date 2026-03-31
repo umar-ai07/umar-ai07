@@ -2,7 +2,7 @@
 <h3 align="center">🚀 AI | Machine Learning | Python Developer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=F70000&center=true&vCenter=true&lines=Artificial+Intelligence+Enthusiast;Machine+Learning+Learner;Python+Developer;Always+Learning+New+Things" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00C2FF&center=true&vCenter=true&lines=Artificial+Intelligence+Enthusiast;Machine+Learning+Learner;Python+Developer;Building+Cool+Projects" />
 </p>
 
 ---
@@ -32,18 +32,4 @@
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=umar-ai07&theme=tokyonight"/>
-</p>
-
----
-
-## 🏆 Achievements
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=umar-ai07&theme=onedark&row=1&column=6"/>
-</p>
-
----
-
-## ✨ Profile Views
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=umar-ai07&label=Profile%20Views&color=blue&style=flat" />
 </p>
