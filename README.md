@@ -9,12 +9,12 @@
 
 <p align="center">
   🌱 I am currently learning <b>Python</b> and <b>Machine Learning</b>.  
-  💬 I enjoy working with <b>Python, Machine Learning, Data Analysis, and OOP concepts</b>, and I am always open to discussions and learning new things.  
+  💬 I enjoy working with <b>Python, Machine Learning, Data Analysis, and OOP concepts</b>
   👨‍💻 You can view all of my projects on my LinkedIn profile:  
   <a href="https://www.linkedin.com/in/muhammad-umar-farooq-khan-095b2b3ba">
     www.linkedin.com/in/muhammad-umar-farooq-khan-095b2b3ba
   </a>  
-  📫 Feel free to reach out to me at: <b>umarofficialpk87@gmail.com</b>
+  📫 Reach out to me at: <b>umarofficialpk87@gmail.com</b>
 </p>
 
 ## 🤝 Connect with me
