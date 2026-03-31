@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Muhammad Umar Farooq Khan</h1>
 <h3 align="center">🚀 AI | ML | Python Developer</h3>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00ADB5&center=true&vCenter=true&lines=AI+Enthusiast;Machine+Learning;Python+Developer" />
+<p align="center" style="font-size:16px;">
+  AI Enthusiast • Machine Learning • Python Developer
 </p>
 
 ---
