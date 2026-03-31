@@ -29,13 +29,10 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=umar-ai07&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=umar-ai07&show_icons=true&theme=radical" width="48%" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=umar-ai07&layout=compact&theme=radical" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=umar-ai07&layout=compact&theme=radical" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=umar-ai07&theme=radical" />
+  <img src="https://streak-stats.demolab.com/?user=umar-ai07&theme=radical" width="60%" />
 </p>
