@@ -2,12 +2,9 @@
 <h3 align="center">Passionate about Artificial Intelligence, Machine Learning, and building impactful tech solutions.</h3>
 
 - 🌱 I’m currently learning **Python, Machine Learning**
-
 - 👨‍💻 All of my projects are available at  
-https://www.linkedin.com/in/muhammad-umar-farooq-khan-095b2b3ba
-
+  [LinkedIn](https://www.linkedin.com/in/muhammad-umar-farooq-khan-095b2b3ba)
 - 💬 Ask me about **Python, Machine Learning, Data Analysis, OOP**
-
 - 📫 How to reach me: **umarofficialpk87@gmail.com**
 
 ---
@@ -30,16 +27,14 @@ https://www.linkedin.com/in/muhammad-umar-farooq-khan-095b2b3ba
 </p>
 
 ---
+
 ## 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=umar-ai07&show_icons=true&theme=radical&cache_seconds=86400" />
+  <img src="https://github-readme-stats.vercel.app/api?username=umar-ai07&show_icons=true&theme=radical&hide_title=true&count_private=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=umar-ai07&layout=compact&theme=radical&hide_title=true&langs_count=8" height="150"/>
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=umar-ai07&layout=compact&theme=radical&cache_seconds=86400" />
-</p>
-
-<p align="center">
-<img src="https://streak-stats.demolab.com/?user=umar-ai07&theme=radical" />
+  <img src="https://streak-stats.demolab.com/?user=umar-ai07&theme=radical" height="150"/>
 </p>
