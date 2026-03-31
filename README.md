@@ -30,17 +30,16 @@ https://www.linkedin.com/in/muhammad-umar-farooq-khan-095b2b3ba
 </p>
 
 ---
-
 ## 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=umar-ai07&show_icons=true&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api?username=umar-ai07&show_icons=true&theme=radical&cache_seconds=86400" />
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=umar-ai07&layout=compact&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=umar-ai07&layout=compact&theme=radical&cache_seconds=86400" />
 </p>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=umar-ai07&theme=tokyonight" />
+<img src="https://streak-stats.demolab.com/?user=umar-ai07&theme=radical" />
 </p>
